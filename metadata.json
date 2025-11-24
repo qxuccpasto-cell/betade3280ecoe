@@ -1,0 +1,5 @@
+{
+  "name": "Simulador Clínico 3280",
+  "description": "Un generador de casos clínicos interactivos basado en la Resolución 3280 de 2018 para estudiantes de salud en Colombia.",
+  "requestFramePermissions": []
+}
